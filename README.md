@@ -1,5 +1,6 @@
 # Sistema de Gestão de uma Creche
-Sistema de Gestão para uma Creche com **Laravel** e **Quasar Framework**
+Repositorio do servidor do Sistema de Gestão para uma Creche com **Laravel** e **Quasar Framework**
+
  
 ## Funcionalidades do Sistema
 ### 1 - Área Administrativa com Voyager
